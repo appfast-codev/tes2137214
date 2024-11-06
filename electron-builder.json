@@ -1,0 +1,6 @@
+{
+  "appId": "com.tes2137214",
+  "win": {
+    "target": "nsis"
+  }
+}

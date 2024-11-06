@@ -1,0 +1,15 @@
+{
+  "name": "tes2137214",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-builder"
+  },
+  "dependencies": {
+    "electron": "^23.0.0"
+  },
+  "devDependencies": {
+    "electron-builder": "^23.0.0"
+  }
+}
